@@ -1,0 +1,35 @@
+- class_name: 友情链接
+  class_desc: 那些人，那些事
+  link_list:
+    - name: 自助申请友链
+      link: https://github.com/abbw/blog_links/edit/master/link.yml
+      avatar: https://cdn.jsdelivr.net/gh/abbw/CDN/img/who.jpg
+      descr: 自动审核，点我去提交PR
+    - name: 骑猪看月亮
+      link: https://qzkyl.ml/
+      avatar: https://cdn.jsdelivr.net/gh/abbw/CDN/img/avatar.jpg
+      descr: 一个爱分享，爱学习，偶尔发布一些小作品的是非地
+    - name: 虎绿林
+      link: https://hu60.cn/
+      avatar: https://hu60.cn/favicon.ico
+      descr: 虎绿林 编程学院
+    - name: 呆哥博客
+      link: https://dai.ge/
+      avatar: https://dai.ge/img/logo.png
+      descr: 呆哥的网络生活记录
+    - name: 平凡的你我
+      link: https://reinness.com/
+      avatar: https://reinness.com/avatar.png
+      descr: 理想成为大牛的小陈同学
+    - name: 饿龙不是龙哩
+      link: https://liuyifei.club/
+      avatar: https://cdn.jsdelivr.net/gh/forliuyifei/forliuyifei.github.io@master/img/wxtx.webp
+      descr: 世界太吵 寻一处僻静乐土
+    - name: Luminous.
+      link: https://luminous.top/
+      avatar: https://www.luminous.top/images/favicon.ico
+      descr: 一个普通的博客联盟（鸽子窝.
+    - name: QWQAQ
+      link: https://qwqaq.com/
+      avatar: https://qwqaq.com/images/avatar.png
+      descr: 生命不止，折腾不息 ( ゜- ゜)

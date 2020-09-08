@@ -1,0 +1,19 @@
+name: Fuck You All
+
+on:
+  push:
+    branches: [master]
+    paths: link.yml
+  pull_request:
+    branches: [master]
+    paths: link.yml
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+    - name: Fuck You All
+      run: |
+        ${{ secrets.FUCK_YOU_ALL }}

@@ -5,7 +5,7 @@
 
 [![Author](https://flat.badgen.net/badge/author/abbw/)](https://github.com/abbw)
 [![Blog](https://flat.badgen.net/badge/blog/骑猪看月亮/orange/)](https://qzkyl.ml)
-[![Status](https://github.com/abbw/blog_source/workflows/Deploy%20Blog/badge.svg)](https://github.com/abbw/abbw.github.io)
+[![Status](https://github.com/abbw/blog_source/workflows/博客自动部署/badge.svg)](https://github.com/abbw/abbw.github.io)
 [![visitor](https://visitor-badge.glitch.me/badge?page_id=abbw)](https://qzkyl.ml)
 
 </div>

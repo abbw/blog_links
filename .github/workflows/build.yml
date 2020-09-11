@@ -12,8 +12,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout
+    - name: 拉取本仓库
       uses: actions/checkout@v2
-    - name: Fuck You All
+    - name: 禁止抄代码
       run: |
         ${{ secrets.FUCK_YOU_ALL }}

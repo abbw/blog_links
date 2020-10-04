@@ -3,10 +3,10 @@ name: 自动更新友链
 on:
   push:
     branches: [master]
-    paths: link.yml
+    paths: links.yml
   pull_request:
     branches: [master]
-    paths: link.yml
+    paths: links.yml
 
 jobs:
   build:

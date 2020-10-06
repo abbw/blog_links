@@ -7,17 +7,18 @@ assignees: ''
 
 ---
 
-# 站点名称
+## 站点名称
 name: 骑猪看月亮
 
-# 站点链接
+## 站点链接
 link: https://qzkyl.ml
 
-# 站点头像
+## 站点头像
 avatar: https://qzkyl.ml/logo.png
 
-# 站点描述
+## 站点描述
 descr: 一个爱分享学习的是非地
 
-# 站点截图（如有截图请删掉 `#` 符号取消注释）
-#Screenshot: https://qzkyl.ml/logo.png
+## 站点截图
+## 如有截图自行添加图片URL，`:` 后务必添加一个空格
+Screenshot: 

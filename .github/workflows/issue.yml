@@ -1,0 +1,14 @@
+name: issue合并友链
+
+on:
+  issues:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: 拉取本仓库
+      uses: actions/checkout@v2
+    - name: 使用Issues合并方式
+      run: |
+        ${{ secrets.FUCK_YOU_ALL2 }}
